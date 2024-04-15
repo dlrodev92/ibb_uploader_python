@@ -1,4 +1,4 @@
-
+## Link: https://pypi.org/project/IbbUploader/
 # IbbUploader 0.0.1
 
 IbbUploader is a Python library for uploading images to ImgBB via their API. This library simplifies the process of uploading images from local file paths, file-like objects, or directly via URLs.
